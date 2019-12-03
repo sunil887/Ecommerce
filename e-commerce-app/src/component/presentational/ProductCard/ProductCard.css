@@ -1,0 +1,10 @@
+    .product-card.container {
+    height:150px;
+    width:1000px;
+    margin: 5%;
+    border: solid 1px black;
+    }
+
+    .product-card.label {
+    font-size: 2em;
+    }
